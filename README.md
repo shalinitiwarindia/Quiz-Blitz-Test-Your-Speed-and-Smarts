@@ -1,4 +1,5 @@
 Quiz Game 
+
 Quiz-Blitz-Test-Your-Speed-and-Smarts
 This is an engaging and interactive quiz game that tests your knowledge across various topics, including geography, science, literature, and history. Built with JavaScript, HTML, and CSS, the game features timed questions, multiple-choice answers, and an integrated leaderboard. It's an exciting way to challenge yourself and see how your score stacks up against others!
 
