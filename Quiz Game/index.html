@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Enhanced Quiz Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="quiz-container">
+    <!-- Welcome Screen -->
+    <div id="welcome-screen">
+      <h1>Welcome to the Quiz Game!</h1>
+      <p>Test your knowledge and compete for the top score!</p>
+      <button id="start-btn">Start Quiz</button>
+    </div>
+
+    <!-- Quiz Game Interface -->
+    <div id="game-screen" style="display: none;">
+      <h1>Quiz Game</h1>
+      <div id="progress-bar"></div>
+      <div id="question-container">
+        <p id="question"></p>
+        <div id="answers"></div>
+      </div>
+      <div id="timer">Time left: <span id="time">10</span>s</div>
+      <button id="next-btn">Next</button>
+      <button id="reset-btn">Reset</button>
+      <p id="feedback"></p>
+      <p id="score"></p>
+      <div id="leaderboard">
+        <h2>Leaderboard</h2>
+        <ul id="high-scores"></ul>
+      </div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
