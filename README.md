@@ -59,3 +59,14 @@ Challenges Faced:
 
 Timer Synchronization: Ensuring the timer works smoothly, especially when transitioning from one question to the next, was a key challenge.
 Storing Data in LocalStorage: The leaderboard functionality required efficient handling of localStorage to store and display top scores without losing data when the page was refreshed.
+
+
+ScreenShots:
+
+![image](https://github.com/user-attachments/assets/de4b7f44-deda-4f05-8f4c-35923825ab55)
+![image](https://github.com/user-attachments/assets/24b387d7-f69f-4404-bbd5-216f6915b8b6)
+![image](https://github.com/user-attachments/assets/67b41aa9-653f-4e1e-8829-4e456dd47a98)
+
+
+
+
